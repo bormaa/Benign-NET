@@ -1,2 +1,3 @@
 # Benign-NET
-Benign .NET files
+This repo contains a huge ammount of normal .NET exe files.
+Files were collected from various resources.
